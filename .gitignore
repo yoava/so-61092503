@@ -1,0 +1,56 @@
+## eclipse ############
+.metadata/
+.settings/
+.project
+.classpath
+
+## jetbrains ###########
+.idea/
+out/
+*.iml
+*.ipr
+*.iws
+atlassian-ide-plugin.xml
+*.patch
+
+## other ides #########
+.c9/
+*.launch
+*.sublime-workspace
+
+## vscode #############
+.vscode/
+
+## logs ###############
+*.log
+
+## gradle #############
+.gradle/
+build/
+
+## node.js & web #######
+node_modules/
+bower_components/
+dist/
+
+out-tsc/
+.nyc_output
+.awcache
+tmp/
+.sass-cache
+connect.lock
+tsconfig.tsbuildinfo
+
+# parcel
+.cache/
+
+## misc ###############
+.env.local
+.env.*.local
+
+## mac ################
+.DS_Store
+
+## windows ############
+Thumbs.db
+ehthumbs.db

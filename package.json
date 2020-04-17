@@ -1,0 +1,12 @@
+{
+  "name": "electron-for-so-61092503",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^8.2.3"
+  }
+}
